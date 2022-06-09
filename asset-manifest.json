@@ -1,7 +1,7 @@
 {
   "main.css": "/TextApp/static/css/main.bde01b32.chunk.css",
-  "main.js": "/TextApp/static/js/main.87222b3c.chunk.js",
-  "main.js.map": "/TextApp/static/js/main.87222b3c.chunk.js.map",
+  "main.js": "/TextApp/static/js/main.f852d0d2.chunk.js",
+  "main.js.map": "/TextApp/static/js/main.f852d0d2.chunk.js.map",
   "runtime~main.js": "/TextApp/static/js/runtime~main.42bbd475.js",
   "runtime~main.js.map": "/TextApp/static/js/runtime~main.42bbd475.js.map",
   "static/js/2.76ea65dd.chunk.js": "/TextApp/static/js/2.76ea65dd.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.398cb210.chunk.js": "/TextApp/static/js/3.398cb210.chunk.js",
   "static/js/3.398cb210.chunk.js.map": "/TextApp/static/js/3.398cb210.chunk.js.map",
   "index.html": "/TextApp/index.html",
-  "precache-manifest.177e3e83c7cd8e42932bd4b69a4585da.js": "/TextApp/precache-manifest.177e3e83c7cd8e42932bd4b69a4585da.js",
+  "precache-manifest.2cf508ca07c8739e810d497e0709e14a.js": "/TextApp/precache-manifest.2cf508ca07c8739e810d497e0709e14a.js",
   "service-worker.js": "/TextApp/service-worker.js",
   "static/css/main.bde01b32.chunk.css.map": "/TextApp/static/css/main.bde01b32.chunk.css.map"
 }
